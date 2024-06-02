@@ -1,8 +1,14 @@
-# React + Vite
+# Uifry landing page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Converted Figma design into landing page.
+Check out the live link: [urifry.vercel.app/](https://urifry.vercel.app/)
 
-Currently, two official plugins are available:
+## Tech Stack
+1. React.js
+2. Tailwind CSS
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install the code file and open the root folder in code editor. Open terminal and run the following command.
+```bash
+npm run dev
+```
