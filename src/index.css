@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    html{
+        font-family: 'Clash Display', sans-serif;
+    }
+    
+      
+      .fading-line {
+        width: 80%;
+        height: 1px;
+        background: linear-gradient(to right, transparent, rgb(100, 100, 100), transparent);
+      }
+}
